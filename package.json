@@ -2,7 +2,7 @@
   "name": "facebook-auto-logout",
   "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
   "author": "Tim Taubert <tim@timtaubert.de>",
-  "version": "0.3",
+  "version": "0.3.1",
   "fullName": "Facebook Auto-Logout",
   "id": "jid1-0LUk0G25IhTJ0g",
   "description": "Logs you automatically out of Facebook.",
